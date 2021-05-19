@@ -1,0 +1,2 @@
+Es hora de poner en práctica todo lo que se ha aprendido. En este capítulo se desarrolla un juego completo. El juego se llama Battleship. El objetivo de este juego es hundir los barcos mediante disparos de misiles. Es un tanto complejo y, además de javascript, utiliza HTML5 y CSS.
+[[7JavaScript]]

@@ -1,0 +1,1 @@
+El libro presupone un conocimiento previo de htm y CSS . Vamos a reseñar capítulo por capítulo. [[javascript]]

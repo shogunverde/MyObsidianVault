@@ -1,0 +1,2 @@
+En el tercer capítulo el centro de atención está en las funciones. Se explica claramente la separación que conceptualmente existe entre variables locales y variables globales, así como también el ciclo de vida de cada variable. También se aclara cuando una variable es indefinida o cuando tiene algún valor.
+[[HfjavascriptSegundoCapítulo]]

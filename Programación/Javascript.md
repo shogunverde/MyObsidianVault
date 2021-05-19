@@ -1,0 +1,1 @@
+Javascript es un lenguaje que creció con internet. Estamos ante  un lenguaje que no nació en un ambiente académico sino que fue creciendo conforme las funcionalidades de la web iban aumentando. [[Lenguajes de programación]]

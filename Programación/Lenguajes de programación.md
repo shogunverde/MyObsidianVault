@@ -1,0 +1,1 @@
+El lenguaje más útil hoy en día es javascript seguido de python. Es útil saber php y dominar diferentes bases de datos . En Java y Kotlin se hacen apps para Android. Vale la pena conocer C y C++. También C# que se usa mucho en Windows.

@@ -1,0 +1,2 @@
+Cómo entiende javascript las igualdades: el mayor o menor qué; cuándo un número es un número y cuando una "string" o cuando es un valor booleano. Cómo se puede operar entre diferentes tipos de valores  etc.
+[[HeadFirstJavascript6]]

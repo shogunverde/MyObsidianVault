@@ -1,0 +1,2 @@
+En este segundo capítulo se desarrolla u juego de batalla naval. Es solo una línea horizontal. Por muy rudimentario que parezca, tiene la virtud de poner en práctica los conocimientos adquiridos en el capítulo anterior
+[[hfjavascriptCapítuloUno]][[Reseña del libro HFjavascript]]

@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "1fb7fa4305c8b17e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa066b9374638a1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1a1e0e17c63d7ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "631f8ecb430d26ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e50f7b6866ee25f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "881fb55ee7362c2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ebb3ad4b05534f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "882349754ab0e41a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f61e65ae088bdb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52205ea6b071ab3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8aa066b9374638a1",
+  "lastOpenFiles": [
+    "Lapila de javascript.md",
+    "JavaScriptHeadFirstCapítuloOcho.md",
+    "Untitled.md",
+    "Reseña del libro HFjavascript.md",
+    "Javascript.md",
+    "hfjavascriptCapítuloUno.md",
+    "Lenguajes de programación.md",
+    "javascript.md"
+  ]
+}
